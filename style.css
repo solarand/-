@@ -1555,6 +1555,8 @@ body{
         margin-top: 11px;
         width: 355px;
         height: 195px;
+        margin-right: 0;
+        margin-left: 0;
     }
 
     .life-lent{
@@ -1630,10 +1632,22 @@ body{
         display: none;
     }
 
+    .content {
+        margin-left: 19px;
+        max-width: 375px;
+    }
+
+    .content {
+        width: 550px;
+        font-size: 12px;
+        margin-left: 20px;
+    }
+
+
     .qa .content > ul{
         margin-left: 0;
         padding-left: 0;
-        width: 420px;
+        width: 350px;
     }
 
 
