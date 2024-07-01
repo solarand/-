@@ -701,13 +701,13 @@ body{
 }
 
 .footer .record .form_content > input:nth-of-type(-n+4).no{
-    background-image: url('/img/no.png');
+    background-image: url('img/no.png');
     background-repeat: no-repeat;
     background-position: right 23px center;
 }
 
 .footer .record .form_content > input:nth-of-type(-n+4).yes{
-    background-image: url('/img/yes.png');
+    background-image: url('img/yes.png');
     background-repeat: no-repeat;
     background-position: right 23px center;
 }
