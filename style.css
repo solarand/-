@@ -8,9 +8,13 @@
     src: url(font/Open-Sans/OpenSans-Regular.ttf);
 }
 
+html, body {
+    overflow-x: hidden;
+}
+
 body{
     font-family: "Open_SansReg";
-    overflow-x: hidden;
+    position: relative;
     margin: 0;
     padding: 0;
     font-size: 100%;
@@ -1309,10 +1313,11 @@ body{
     .navbar-desktop{
         display: none;
     }
-
-    body{
-        max-width: 485px;
-    }
+    
+    /* body{
+        position: relative;
+        max-width: 350px;
+    } */
 
     .header{
         height: 101px;
