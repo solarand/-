@@ -1499,6 +1499,7 @@ body{
         width: 295px;
         height: 50px;
         border-radius: 5px;
+        margin-left: 0;
     }
 
     .home .main-wrapper > div:last-of-type > button:last-of-type{
@@ -1506,6 +1507,7 @@ body{
         height: 50px;
         border-radius: 5px;
         margin-top: 10px;
+        margin-left: 0;
     }
 
     .about_company{
